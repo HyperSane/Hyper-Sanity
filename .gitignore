@@ -1,6 +1,8 @@
 # Obsidian folder notes
 _*.md
 */_*.md
+**/_*.md
+**/.space/
 
 # Private notes
 *.private.md
