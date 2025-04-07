@@ -3,6 +3,13 @@ _*.md
 */_*.md
 **/_*.md
 **/.space/
+*_*.md
+*_.md
+**_*.md
+**_.md
+Vault/*_.md
+Vault/*_      # for folders ending in underscore
+
 
 # Private notes
 *.private.md
