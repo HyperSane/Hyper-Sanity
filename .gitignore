@@ -1,0 +1,14 @@
+# Obsidian folder notes
+_*.md
+*/_*.md
+
+# Private notes
+*.private.md
+
+# Optional: ignore local metadata
+.obsidian/
+.cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
