@@ -1,3 +1,6 @@
+---
+color: var(--mk-color-red)
+---
 # Hyper-Sanity (WIP)
 
 Will slowly be converting the HyperSanity reddit here.
