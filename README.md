@@ -45,3 +45,10 @@ To see a files signature, right-click and use GPG/Kleopatra to see signatures.
 WIP
 
 Will eventually turn the public vault into a gitsite.
+
+
+# Contact
+
+1. [Github](https://github.com/HyperSane/Hyper-Sanity/discussions)
+2. [Discord, not active]()
+3. [Reddit](https://www.reddit.com/r/HyperSanityPublic/) or DM
