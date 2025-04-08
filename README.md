@@ -1,6 +1,14 @@
 ---
 color: var(--mk-color-red)
 ---
+[Main Readme](https://github.com/HyperSane/Hyper-Sanity/blob/main/README.md)
+[Index](https://github.com/HyperSane/Hyper-Sanity/edit/main/Index.md)
+- [Root](https://github.com/HyperSane/Hyper-Sanity/tree/main)
+ - [Archives](https://github.com/HyperSane/Hyper-Sanity/tree/main/Archives)
+ - [Ethics](https://github.com/HyperSane/Hyper-Sanity/tree/main/Ethics)
+ -  [Resources](https://github.com/HyperSane/Hyper-Sanity/tree/main/Resources)
+ - [Obsidian Vault](https://github.com/HyperSane/Hyper-Sanity/tree/main/Vault)
+
 # Hyper-Sanity (WIP)
 
 Will slowly be converting the HyperSanity reddit here.
