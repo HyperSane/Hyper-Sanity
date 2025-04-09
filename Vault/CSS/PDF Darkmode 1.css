@@ -1,0 +1,91 @@
+/* Enforce Light Text for Dark Mode PDF Export */
+@media print {
+    /* General body background and text */
+    body, .markdown-preview-view {
+        background-color: #14151c !important; /* Dark background */
+        color: #e0e0e0 !important; /* Light text */
+    }
+
+    /* Apply to all text elements */
+    p, span, div, section, article {
+        color: #e0e0e0 !important; /* Light text */
+    }
+
+    /* Header styling */
+    h1, h2, h3, h4, h5, h6 {
+        color: #ffffff !important; /* Bright white for headers */
+        margin-bottom: 8px;
+    }
+
+    /* Links */
+    a {
+        color: #8be9fd !important; /* Cyan for links */
+        text-decoration: underline;
+    }
+
+    /* Emphasis */
+    em, strong {
+        color: #ffd700 !important; /* Gold for emphasis */
+    }
+
+    /* Blockquotes */
+    blockquote {
+        border-left: 4px solid #5a4af1 !important; /* Dark purple border */
+        background-color: #1a1b26 !important; /* Darker blockquote background */
+        color: #e0e0e0 !important; /* Light text */
+        padding: 10px;
+        margin: 10px 0;
+    }
+
+    /* Inline code */
+    code {
+        background-color: #2a2d3e !important; /* Dark code background */
+        color: #00ff7f !important; /* Green text */
+        padding: 2px 4px;
+        border-radius: 4px;
+    }
+
+    /* Code blocks */
+    pre {
+        background-color: #2a2d3e !important; /* Darker code block background */
+        color: #00ff7f !important; /* Green text */
+        padding: 10px;
+        border-radius: 5px;
+        margin: 10px 0;
+    }
+
+    /* Lists */
+    li {
+        color: #e0e0e0 !important; /* Light text */
+        margin-bottom: 5px;
+    }
+
+    /* Tables */
+    th, td {
+        background-color: #14151c !important; /* Darker table background */
+        color: #e0e0e0 !important; /* Light text */
+        border: 1px solid #444b5a !important; /* Subtle dark border */
+        padding: 8px;
+    }
+
+    /* Highlighted text */
+    mark {
+        background-color: #ffb86c !important; /* Yellow highlight */
+        color: #14151c !important; /* Dark text */
+    }
+
+    /* Override any other text styles */
+    * {
+        color: #e0e0e0 !important; /* Force all elements to have light text */
+    }
+
+    /* Page layout */
+    @page {
+        margin: 0.75in;
+    }
+
+    /* Prevent page breaks inside headers and code blocks */
+    h1, h2, h3, h4, h5, h6, blockquote, pre, li {
+        page-break-inside: avoid;
+    }
+}

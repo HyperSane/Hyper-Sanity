@@ -1,0 +1,20 @@
+/* Change color of pin when tab is pinned */
+.nav-pin svg {
+    fill: orange !important;
+}
+
+/* Specific hover color for internal links */
+a.internal-link:hover {
+    color: orange !important;
+}
+
+/* Change color of bold text to orange in content only */
+.markdown-preview-view strong, .markdown-preview-view b,
+.cm-s-obsidian span.cm-formatting-strong, .cm-s-obsidian span.cm-strong {
+    color: orange !important;
+}
+
+/* Ensure TOC and Header Hover Headers Retain Original Color */
+.table-of-contents a:hover, .toc a:hover, .markdown-preview-view h1 a, .markdown-preview-view h2 a, .markdown-preview-view h3 a, .markdown-preview-view h4 a, .markdown-preview-view h5 a, .markdown-preview-view h6 a {
+    color: inherit !important;
+}
