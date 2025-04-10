@@ -1,6 +1,8 @@
 ---
 color: var(--mk-color-red)
 ---
+![Hyper-Sanity V2 1-2 11_10_31 PM](https://github.com/user-attachments/assets/89d4257b-c6c3-4b32-8803-b2a47c88655a)
+
 [Main Readme](https://github.com/HyperSane/Hyper-Sanity/blob/main/README.md)
 [Index](https://github.com/HyperSane/Hyper-Sanity/edit/main/Index.md)
 - [Root](https://github.com/HyperSane/Hyper-Sanity/tree/main)
