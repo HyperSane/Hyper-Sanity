@@ -1,0 +1,300 @@
+{
+  "edges": [
+    {
+      "fromNode": "3fdda9f9-4931-402d-85e6-07cb52b94c3c",
+      "fromSide": "right",
+      "id": "7f3b4529-08e6-4770-9868-02f1463032c0",
+      "styleAttributes": {
+      },
+      "toNode": "16ec3fc9-98ef-4eac-af70-c4f5de42181e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3fdda9f9-4931-402d-85e6-07cb52b94c3c",
+      "fromSide": "right",
+      "id": "57d92c00-fdcc-452b-a64c-45f6c7d9125b",
+      "styleAttributes": {
+      },
+      "toNode": "50d62ecf-e07a-451f-a38b-7d9fbb420b8a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3fdda9f9-4931-402d-85e6-07cb52b94c3c",
+      "fromSide": "right",
+      "id": "0b050b1b-c428-4aba-a538-06986c9d6a0c",
+      "styleAttributes": {
+      },
+      "toNode": "027adc6c-913e-4c36-89d7-7fc847aa6e27",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "16ec3fc9-98ef-4eac-af70-c4f5de42181e",
+      "fromSide": "right",
+      "id": "a7f2bf2b-1f62-4dd4-aa02-72eb6da2214b",
+      "styleAttributes": {
+      },
+      "toNode": "c440661b-ef4d-4e9d-a83c-8d3e15b9f152",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "50d62ecf-e07a-451f-a38b-7d9fbb420b8a",
+      "fromSide": "right",
+      "id": "d72cf1d8-031d-4b20-9bec-42c47ead0b01",
+      "styleAttributes": {
+      },
+      "toNode": "2c192276-adfa-4414-ba7e-f4602bf2a59a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "027adc6c-913e-4c36-89d7-7fc847aa6e27",
+      "fromSide": "right",
+      "id": "b9d81edc-dba4-411c-a847-4ef7ca44978f",
+      "styleAttributes": {
+      },
+      "toNode": "c5603b01-0ace-42a8-b2d8-2a0a94069246",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "50d62ecf-e07a-451f-a38b-7d9fbb420b8a",
+      "fromSide": "right",
+      "id": "033cd190-d448-4fe4-8dc8-a85fa4437c0b",
+      "styleAttributes": {
+      },
+      "toNode": "eb687481-bba9-4199-9db7-e58bcc59ec18",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "027adc6c-913e-4c36-89d7-7fc847aa6e27",
+      "fromSide": "right",
+      "id": "58e3b07d-1659-49cc-bc04-2a8fc00202c7",
+      "styleAttributes": {
+      },
+      "toNode": "eb687481-bba9-4199-9db7-e58bcc59ec18",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2c192276-adfa-4414-ba7e-f4602bf2a59a",
+      "fromSide": "right",
+      "id": "980c1668-84ba-4794-8886-9b5940cf885c",
+      "styleAttributes": {
+      },
+      "toNode": "eb687481-bba9-4199-9db7-e58bcc59ec18",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5603b01-0ace-42a8-b2d8-2a0a94069246",
+      "fromSide": "right",
+      "id": "1e6f8594-7645-43ef-a5b8-8581123d098c",
+      "styleAttributes": {
+      },
+      "toNode": "eb687481-bba9-4199-9db7-e58bcc59ec18",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c440661b-ef4d-4e9d-a83c-8d3e15b9f152",
+      "fromSide": "right",
+      "id": "a7b23e62-b379-470a-b31d-bae29ee4fd47",
+      "styleAttributes": {
+      },
+      "toNode": "b1b234ab-678d-4c9f-a450-20a440126484",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b1b234ab-678d-4c9f-a450-20a440126484",
+      "fromSide": "right",
+      "id": "2543f3c7-6e57-4349-bc85-bae1c1b5f434",
+      "styleAttributes": {
+      },
+      "toNode": "b89d8928-8316-4005-a538-6e54fa8e8b07",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eb687481-bba9-4199-9db7-e58bcc59ec18",
+      "fromSide": "right",
+      "id": "27d7cd30-9742-4377-b658-fb81771decd4",
+      "styleAttributes": {
+      },
+      "toNode": "b89d8928-8316-4005-a538-6e54fa8e8b07",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c4808dbf-a114-49e3-8c31-a429e145266a",
+      "fromSide": "right",
+      "id": "734c569e-8a99-4904-b870-e8f8a3e469ed",
+      "styleAttributes": {
+      },
+      "toNode": "b89d8928-8316-4005-a538-6e54fa8e8b07",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3fdda9f9-4931-402d-85e6-07cb52b94c3c",
+      "fromSide": "right",
+      "id": "e98a906b-619f-428d-a93b-92fa465884a9",
+      "styleAttributes": {
+      },
+      "toNode": "c4808dbf-a114-49e3-8c31-a429e145266a",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 600,
+      "id": "6b8707538d43984c",
+      "label": "HyperSane Demon",
+      "type": "group",
+      "width": 500,
+      "x": 700,
+      "y": 560
+    },
+    {
+      "color": "2",
+      "height": 520,
+      "id": "003b60de5eb29186",
+      "label": "By Hyper-Sanity",
+      "type": "group",
+      "width": 500,
+      "x": 700,
+      "y": -720
+    },
+    {
+      "height": 150,
+      "id": "3fdda9f9-4931-402d-85e6-07cb52b94c3c",
+      "styleAttributes": {
+      },
+      "text": "Empathy Paradox\n\nEmpathy is morally neutral. It simulates others’ feelings but doesn’t guarantee good actions. This paradox reveals that empathy can cause harm when unfiltered. Without structure, empathy can lead to enabling, bias, or manipulation.",
+      "type": "text",
+      "width": 300,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 150,
+      "id": "16ec3fc9-98ef-4eac-af70-c4f5de42181e",
+      "styleAttributes": {
+      },
+      "text": "Empathy = Simulation (not understanding)\n\nEmpathy simulates emotional states, but this is not the same as understanding. It can be inaccurate, projected, or self-serving. True understanding requires reflection, not just resonance.",
+      "type": "text",
+      "width": 300,
+      "x": 400,
+      "y": -150
+    },
+    {
+      "height": 150,
+      "id": "50d62ecf-e07a-451f-a38b-7d9fbb420b8a",
+      "styleAttributes": {
+      },
+      "text": "Empathy → Harm\n\nUnchecked empathy can lead to:\n- Enabling addiction\n- Avoiding hard truths\n- Overprotecting\n\nWithout boundary or reflection, empathy increases long-term harm.",
+      "type": "text",
+      "width": 300,
+      "x": 400,
+      "y": 0
+    },
+    {
+      "height": 150,
+      "id": "027adc6c-913e-4c36-89d7-7fc847aa6e27",
+      "styleAttributes": {
+      },
+      "text": "Empathy → Control\n\nManipulators mimic empathy to gain trust or obedience. This is performative care used to suppress dissent, induce guilt, or gaslight others.",
+      "type": "text",
+      "width": 300,
+      "x": 400,
+      "y": 150
+    },
+    {
+      "height": 150,
+      "id": "c440661b-ef4d-4e9d-a83c-8d3e15b9f152",
+      "styleAttributes": {
+      },
+      "text": "Compassion = Emotion, not logic\n\nCompassion alone lacks structure. It’s a motivating feeling, but without logic, it can create co-dependence or emotional shielding.",
+      "type": "text",
+      "width": 300,
+      "x": 800,
+      "y": -150
+    },
+    {
+      "height": 150,
+      "id": "2c192276-adfa-4414-ba7e-f4602bf2a59a",
+      "styleAttributes": {
+      },
+      "text": "Enablement (Emotional harm)\n\nWhen help perpetuates dysfunction, it's enablement. Empathy without limits often supports cycles of harm rather than interrupting them.",
+      "type": "text",
+      "width": 300,
+      "x": 800,
+      "y": 0
+    },
+    {
+      "height": 150,
+      "id": "c5603b01-0ace-42a8-b2d8-2a0a94069246",
+      "styleAttributes": {
+      },
+      "text": "False Altruism (Hidden self-benefit)\n\nSome empathy-driven actions are ego in disguise: a need to feel moral, superior, or indispensable. True care is non-possessive and non-performative.",
+      "type": "text",
+      "width": 300,
+      "x": 800,
+      "y": 150
+    },
+    {
+      "height": 150,
+      "id": "eb687481-bba9-4199-9db7-e58bcc59ec18",
+      "styleAttributes": {
+      },
+      "text": "Filtered Empathy\n\nEmpathy should be passed through filters:\n- What are the consequences?\n- Does this respect autonomy?\n- Is this sustainable?\n\nFiltered empathy protects both self and other.",
+      "type": "text",
+      "width": 300,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "height": 150,
+      "id": "b1b234ab-678d-4c9f-a450-20a440126484",
+      "styleAttributes": {
+      },
+      "text": "Reflection Engine (Meta-awareness)\n\nReflection is the system that filters empathy through:\n- Structural outcomes\n- Cognitive bias checking\n- Long-term ethical alignment\n\nIt prevents reactive or impulsive aid.",
+      "type": "text",
+      "width": 300,
+      "x": 1200,
+      "y": -150
+    },
+    {
+      "height": 150,
+      "id": "c4808dbf-a114-49e3-8c31-a429e145266a",
+      "styleAttributes": {
+      },
+      "text": "Simulation Ethics (Epistemic risks)\n\nHow do we know we are simulating others accurately? What moral risks arise when we assume others’ experiences incorrectly or selectively?",
+      "type": "text",
+      "width": 300,
+      "x": 1200,
+      "y": 150
+    },
+    {
+      "height": 150,
+      "id": "b89d8928-8316-4005-a538-6e54fa8e8b07",
+      "styleAttributes": {
+      },
+      "text": "Goodness = Reflection × Filtered Empathy × Structural Awareness\n\nGoodness is not a feeling. It is a process: feel → reflect → act.\nEmpathy must be integrated with logic and structure to produce ethical outcomes.",
+      "type": "text",
+      "width": 300,
+      "x": 1600,
+      "y": 0
+    },
+    {
+      "height": 400,
+      "id": "d3af5fdecdf0ad0b",
+      "type": "link",
+      "url": "https://www.youtube.com/@Hypersanedemon?sub_confirmation=1",
+      "width": 400,
+      "x": 750,
+      "y": 680
+    },
+    {
+      "height": 400,
+      "id": "0bebe70d8f8893cb",
+      "type": "link",
+      "url": "https://www.youtube.com/@Hyper-Sanity?sub_confirmation=1",
+      "width": 400,
+      "x": 740,
+      "y": -640
+    }
+  ]
+}
